@@ -1,3 +1,8 @@
+# This is a geometry calculator that was made as I learn python.
+# For now, it can only support 4, 2 dimensional shapes (square, rectangle, circle and triangle);
+# and 4, 3 dimensional shapes (cube, cuboid, sphere and triangular prism).
+# This is the very first project that I took very seriously.
+
 import math
 
 measure = input("Are you looking for the area, perimeter or volume? ").lower()
